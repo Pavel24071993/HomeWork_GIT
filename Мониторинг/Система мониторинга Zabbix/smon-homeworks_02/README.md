@@ -64,7 +64,7 @@ systemctl enable zabbix-server zabbix-agent apache2
 Zabbix-agent установленный на моей локальной виртуальной машине. Проверяем его статус командой systemctl status zabbix-agent
 ![Название скриншота 2](https://github.com/Pavel24071993/HomeWork_GIT/blob/main/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix/smon-homeworks_02/img/3.png)
 Добавляю в /etc/zabbix/zabbix_agentd.conf в строку Server новый IP моей второй вирутальной машины, развёрнутов в Yandex Cloud.
-![Название скриншота 2](https://github.com/Pavel24071993/HomeWork_GIT/blob/main/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix/smon-homeworks_02/img/4.png
+![Название скриншота 2](https://github.com/Pavel24071993/HomeWork_GIT/blob/main/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0%20Zabbix/smon-homeworks_02/img/4.png)
 
 1.	Следуя инструкции 
 https://www.zabbix.com/ru/download?zabbix=7.4&os_distribution=ubuntu&os_version=24.04&components=agent&db=&ws= установил на вторую виртуальную машину Yandex Cloud только Zabbix-agent
@@ -89,6 +89,3 @@ IP Yandex Cloud – 158.160.204.0 , его указываю в Интерфей�
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
 Требования к результатам
 1.	Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
-![Название скриншота 15](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/15.jpg)
-
-
