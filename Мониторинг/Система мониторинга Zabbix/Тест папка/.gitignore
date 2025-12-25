@@ -1,0 +1,21 @@
+#Все файлы в директории cash
+*/cache/
+
+# Все файлы с расширением .рус
+*.pyc
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/1.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/2.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/3.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/4.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/5.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/6.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/7.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/8.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/9.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/10.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/11.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/12.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/13.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/14.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/15.jpg
+/Мониторинг/Система мониторинга Zabbix/smon-homeworks_02/img/16.jpg
